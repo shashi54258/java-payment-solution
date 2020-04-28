@@ -1,2 +1,2 @@
 # java-payment-solution
-We will talk about moneris payment.thank you
+We will talk about moneris payment in JAVA .thank you
